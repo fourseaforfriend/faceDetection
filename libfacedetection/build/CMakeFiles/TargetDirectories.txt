@@ -1,0 +1,4 @@
+/home/nzf/software/libfacedetection/build/CMakeFiles/rebuild_cache.dir
+/home/nzf/software/libfacedetection/build/CMakeFiles/edit_cache.dir
+/home/nzf/software/libfacedetection/build/CMakeFiles/facedetection_shared.dir
+/home/nzf/software/libfacedetection/build/CMakeFiles/facedetection.dir
